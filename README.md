@@ -9,8 +9,8 @@
 |Name|GitHub repo link|
 |--|--|
 |Rohan Jaiswar ![Me](https://img.shields.io/badge/Me-green) ![Team Lead](https://img.shields.io/badge/Team_Lead-red) | [![GitHub Link](https://github.com/jaiswar12344/Market-Segment-analysis)) |
-|M.Dilip kumar |[![GitHub Link] (https://github.com/Dil8eep/EDA-Exploratory_Data_Analysis-/blob/main/McDonalds%20Case%20Study.ipynb) |
-|Malay Vyas | [![GitHub Link]((https://github.com/anasbeg03/Projects_DA/blob/c9a618abe93183075bf65cf73dfe1e3f78696f1e/Copy_of_McDonalds_case_study.ipynb)) |
+|M.Dilip kumar|[![GitHub Link] ((https://github.com/Dil8eep/EDA-Exploratory_Data_Analysis-/blob/main/McDonalds%20Case%20Study.ipynb)) |
+|ANAS BEG | [![GitHub Link]((https://github.com/anasbeg03/Projects_DA/blob/c9a618abe93183075bf65cf73dfe1e3f78696f1e/Copy_of_McDonalds_case_study.ipynb)) |
 | Jonnada sai ganesh | 
 | MD Yasin | 
 
