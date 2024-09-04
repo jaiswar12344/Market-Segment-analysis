@@ -1,1 +1,1 @@
-# Market-Segment-analysis
+Market Segmentation Analysis - Feynn Labs Internship
